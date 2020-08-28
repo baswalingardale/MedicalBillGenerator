@@ -1,5 +1,5 @@
-# This is bill generator for me
-
+# This is bill generator for medical
+# There many kind of things and features to add this
 
 def create_reciept():
     drug_list = {}
