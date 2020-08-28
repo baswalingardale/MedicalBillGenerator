@@ -1,0 +1,2 @@
+This is the simple basic project for bill generator for medical.
+Author: Baswaling Ardale
